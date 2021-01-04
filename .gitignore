@@ -130,3 +130,6 @@ dmypy.json
 
 # Diretory of Data
 /data 
+
+# VS code
+/.vscode
