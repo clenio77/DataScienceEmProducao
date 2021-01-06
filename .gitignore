@@ -132,4 +132,4 @@ dmypy.json
 /data 
 
 # VS code
-/.vscode
+.vscode/
